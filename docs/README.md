@@ -1,5 +1,4 @@
-
-##Documentation##
+# Documentation #
 
 Blah blah blah. 
 
@@ -39,7 +38,7 @@ But let's throw in a <b>tag</b>.
 
 
 
-> Blockquotes are very handy in email to emulate reply text.
+> Blockquotes are very handy in email to emulate reply text. 
 > This line is part of the same quote.
 
 Quote break.
