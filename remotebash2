@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "sleeping for 5s..."
+sleep 5
+echo "G'day!"
+exit
