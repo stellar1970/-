@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 echo "sleeping for 5s..."
 sleep 
 echo "G'day!"
